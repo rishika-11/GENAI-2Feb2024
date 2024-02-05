@@ -2,7 +2,7 @@
 The project implements a text generation model using LSTM neural networks to generate coherent text sequences based on input data.
 
 # Data Set
-It is the paragraph of the information about education.
+It is the text document contains information about education.
 
 # Libraries
 
